@@ -10,4 +10,4 @@ Skills Used - Miscrosoft Power BI
 
 4.Created a story-telling dashboard and gave meaningful insights that met specific business requirements, facilitating data-driven decision-making.
 
-5.Used different tools and functions like Power Query, DAX (Data Analysis Expressions), Table View, Model View, Visualizations (Dashboard and Reports) along with the use of Filter and Slicers.
+5.Used different tools and functions like Power Query, DAX (Data Analysis Expressions), Table View, Model View, Different KPI's and Visualizations (Dashboard and Reports) along with the use of Filter and Slicers.
