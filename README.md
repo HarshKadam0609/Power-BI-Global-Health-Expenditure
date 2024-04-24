@@ -1,10 +1,10 @@
 Project - Global Health Expenditure Dashboard
 
-Skills Used - Miscrosoft Power BI
+Skills Used - Microsoft Power BI
 
 1.Developed a Power BI dashboard for Global Health Expenditure over the years (2018-2020).
 
-2.I analyzed global health expenditure data to gain insights into different aspects of health spending across countries and regions.
+2.I analysed global health expenditure data to gain insights into different aspects of health spending across countries and regions.
 
 3.Identified key patterns containing information on health expenditure, GDP, population, and other relevant metrics that answer critical questions and decision-making in the field of global healthcare.
 
